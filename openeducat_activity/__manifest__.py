@@ -20,15 +20,15 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Activity',
+    'name': 'ABN EDU Activity',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
     'summary': 'Manage Activities',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': ['openeducat_core'],
     'data': [
         'security/op_security.xml',
