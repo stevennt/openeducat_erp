@@ -20,15 +20,15 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Facility',
+    'name': 'ABN EDU Facility',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
     'summary': 'Manage Facility',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': ['openeducat_core'],
     'data': [
         'security/ir.model.access.csv',
