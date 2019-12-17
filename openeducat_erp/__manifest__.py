@@ -20,15 +20,15 @@
 ##############################################################################
 
 {
-    'name': 'OpenEduCat ERP',
+    'name': 'ABN EDU',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
     'summary': 'Manage Students, Faculties and Education Institute',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': [
         'openeducat_admission',
         'openeducat_assignment',
