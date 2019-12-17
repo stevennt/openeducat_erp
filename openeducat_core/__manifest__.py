@@ -20,15 +20,15 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Core',
+    'name': 'ABN EDU Core',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 1,
     'summary': 'Manage Students, Faculties and Education Institute',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': ['board', 'document', 'hr', 'web', 'website'],
     'data': [
         'security/op_security.xml',
