@@ -20,15 +20,15 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Fees',
+    'name': 'ABN EDU Fees',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
     'summary': 'Manage Fees',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': ['openeducat_core', 'account'],
     'data': [
         'security/op_security.xml',
