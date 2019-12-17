@@ -20,14 +20,14 @@
 ###############################################################################
 
 {
-    'name': 'Web OpenEduCat',
-    'description': 'Beautifies Website',
+    'name': 'Web ABN EDU',
+    'description': 'ABN EDU',
     'category': 'Website',
     "sequence": 3,
     'version': '12.0',
     'license': 'LGPL-3',
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'data': [
         'views/assets.xml',
 
