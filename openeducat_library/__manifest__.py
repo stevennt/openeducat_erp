@@ -20,15 +20,15 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Library',
+    'name': 'ABN EDU Library',
     'version': '12.0',
     'license': 'LGPL-3',
     'category': 'Education',
     "sequence": 3,
     'summary': 'Manage Library',
     'complexity': "easy",
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ABN EDU',
+    'website': 'http://www.abnasia.org',
     'depends': [
         'account',
         'base_automation',
